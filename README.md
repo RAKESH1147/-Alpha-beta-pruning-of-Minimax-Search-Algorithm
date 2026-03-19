@@ -217,10 +217,6 @@ g.play_alpha_beta()
 
 <img width="343" height="487" alt="image" src="https://github.com/user-attachments/assets/fc889a79-5de0-49a1-9cfd-d38100804c3d" />
 
-
-
-
-
 <img width="374" height="582" alt="image" src="https://github.com/user-attachments/assets/c8c46837-05cf-4581-8f2f-43f8b64f156d" />
 
 
